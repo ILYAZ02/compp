@@ -67,11 +67,10 @@
 
 .Brick {
     display: inline-block;
-    margin: 4px;
 }
 
 .Brick img {
-    margin: 5px 35px;
+    margin: 25px 40px;
     width: 220px;
     height: 160px;
 
